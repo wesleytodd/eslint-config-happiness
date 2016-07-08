@@ -3,9 +3,9 @@
   "description": "JavaScript Happiness Style - ESLint Shareable Config",
   "version": "5.3.1",
   "author": {
-    "name": "Feross Aboukhadijeh",
-    "email": "feross@feross.org",
-    "url": "http://feross.org/"
+    "name": "Wes Todd",
+    "email": "wes@wesleytodd.com",
+    "url": "http://wesleytodd.com"
   },
   "bugs": {
     "url": "https://github.com/wesleytodd/eslint-config-happiness/issues"
