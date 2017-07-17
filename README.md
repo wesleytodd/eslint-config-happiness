@@ -12,11 +12,11 @@
 
 #### An ESLint [Shareable Config](http://eslint.org/docs/developer-guide/shareable-configs) for [JavaScript Happiness Style](https://github.com/JedWatson/happiness)
 
-This module is for advanced users. You probably want to use [`happiness`](https://github.com/JedWatson/happiness) instead :)
-
 [![js-happiness-style](https://cdn.rawgit.com/JedWatson/happiness/master/badge.svg)](https://github.com/JedWatson/happiness)
 
 ## Install
+
+This module is for advanced users. You probably want to use [`standard`](http://standardjs.com) instead :)
 
 ```bash
 npm install eslint-config-happiness
@@ -32,7 +32,7 @@ official ESLint website.
 To use the JavaScript Happiness Style shareable config, first run this:
 
 ```bash
-npm install eslint-config-happiness eslint-plugin-standard eslint-plugin-promise
+npm install --save-dev eslint-config-happiness eslint-plugin-standard eslint-plugin-promise eslint-plugin-import eslint-plugin-node
 ```
 
 Then, add this to your .eslintrc file:
